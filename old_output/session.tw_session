@@ -1,0 +1,79 @@
+{
+    "cookies": "kdt=z5Ve5wjr7mOaeuVTwyItZZ7ITv5JpFzW56V9pSD4;twid=\"u=1717765428393410560\";att=;ct0=9f126ab3b68b609eb1c5d8bc0fce8dd7;auth_token=06cfce9845326e18e3654ffa4db329a715002cb8;",
+    "user": {
+        "original_user": {
+            "can_dm": true,
+            "can_media_tag": true,
+            "created_at": "Fri Oct 27 04:49:42 +0000 2023",
+            "default_profile": true,
+            "default_profile_image": true,
+            "description": "",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 0,
+            "friends_count": 6,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 0,
+            "location": "",
+            "media_count": 0,
+            "name": "MarkDennings",
+            "needs_phone_verification": false,
+            "normal_followers_count": 0,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_interstitial_type": "",
+            "screen_name": "dennin69649",
+            "statuses_count": 0,
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+        },
+        "id": 1717765428393410560,
+        "rest_id": 1717765428393410560,
+        "created_at": "2023-10-27 04:49:42+00:00",
+        "date": "2023-10-27 04:49:42+00:00",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "description": null,
+        "bio": null,
+        "fast_followers_count": 0,
+        "favourites_count": 0,
+        "followers_count": 0,
+        "friends_count": 6,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 0,
+        "location": null,
+        "media_count": 0,
+        "name": "MarkDennings",
+        "normal_followers_count": 0,
+        "profile_banner_url": null,
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_interstitial_type": null,
+        "protected": false,
+        "screen_name": "dennin69649",
+        "username": "dennin69649",
+        "statuses_count": 0,
+        "translator_type": "none",
+        "verified": false,
+        "can_dm": true,
+        "following": false,
+        "community_role": null,
+        "notifications_enabled": false,
+        "notifications": false,
+        "possibly_sensitive": false,
+        "pinned_tweets": null,
+        "profile_url": "https://twitter.com/dennin69649"
+    }
+}
