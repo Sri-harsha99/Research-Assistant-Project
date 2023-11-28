@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 
 
 app = Twitter("session")
-app.start("dennin69649","harsha99$")
+
 
 # csv_twitterID = 'input/CEOs_Twitter_IDs.xlsx'
 csv_tweet = 'output/mainTwitterTweet.csv'
